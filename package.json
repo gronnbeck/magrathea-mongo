@@ -1,0 +1,21 @@
+{
+  "name": "magrathea-mongo",
+  "version": "0.0.0",
+  "description": "App using mongodb with magrathea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ken Grønnbeck",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.8.1",
+    "mongoose": "^3.8.14",
+    "sha1": "^1.1.0"
+  },
+  "devDependencies": {
+    "magrathea": "0.0.2",
+    "traceur": "0.0.58",
+    "ws": "^0.4.32"
+  }
+}
